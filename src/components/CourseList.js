@@ -1,6 +1,5 @@
 import React from "react";
 import PropTypes from "prop-types";
-import { prototype } from "flux/lib/Dispatcher";
 
 function CourseList(props) {
   return (
